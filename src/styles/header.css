@@ -1,0 +1,30 @@
+.header {
+    border-bottom: solid;
+    width: 100%;
+}
+
+.header_logo {
+    height: 100px;
+    width: auto;
+    padding: 10px;
+    display: flex;
+    align-items: flex-start;
+    background-color: #53e99e;
+}
+
+.grey_logo {
+    height: 100px;
+    width: auto;
+    object-fit: contain;
+}
+
+.tagline {
+    background-color: #55f0a2;
+    display: flex;
+    justify-content: flex-centre;
+    margin-bottom: 0px;
+    padding: 10px;
+    font-style: italic;
+    font-weight: 400;
+    font-size: larger; 
+}
